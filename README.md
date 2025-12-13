@@ -68,13 +68,6 @@ gemini-chatbot/
 - **Model**: The app uses `gemini-2.5-flash` by default. You can change it in `main.py`
 - **API Key**: Store your Google API key in the `.env` file
 
-## Screenshots
-
-[Add screenshots of your app here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
